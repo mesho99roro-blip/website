@@ -1,0 +1,17 @@
+﻿/** لجميع العناصر داخل body يتغير 
+*/*{
+    font-family:cursive;
+}
+  #id_red{
+      color:navajowhite;
+      background-color:red;
+  }
+#id_blue {
+    color: white;
+    background-color: blue;
+}
+#div2{
+    display:flex;
+    justify-content:space-between;
+    
+}
